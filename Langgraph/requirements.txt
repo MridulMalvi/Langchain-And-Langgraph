@@ -1,0 +1,13 @@
+# Make virtual enviornment 
+# python -m venv myenv
+#  myenv\Scripts\activate
+
+langgraph
+langchain
+langchain-core
+
+#Google gemeni (PaLM) integration
+langchain-google-genai
+google-generativeai
+
+python-dotenv
