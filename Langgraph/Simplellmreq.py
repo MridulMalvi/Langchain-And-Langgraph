@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 # load_dotenv("langgraph\.env")
 
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyD2aU_Gtg4dMWQZdKDp3Gea4TKzIY_kC3M"
+os.environ["GOOGLE_API_KEY"] = "Api-Key"
  
 
 model = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
